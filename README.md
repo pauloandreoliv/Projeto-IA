@@ -16,7 +16,7 @@ As etapas principais do projeto foram as seguintes:
 
 3. Separação do Conjunto de Treinamento e Teste: Dividimos o conjunto de dados em conjuntos de treinamento e teste para avaliar a capacidade de generalização dos modelos.
 
-4. Treinamento dos Modelos: Utilizamos a biblioteca Scikit-learn para treinar diversos modelos de aprendizado de máquina, incluindo (mas não limitado a) SVM, Random Forest e Regressão Logística.
+4. Treinamento dos Modelos: Utilizamos a biblioteca Scikit-learn para treinar diversos modelos de aprendizado de máquina.
 
 5. Teste de melhora nas métricas com a utilização de Oversampling e Undersampling: Apesar de refletir a realidade, uma vez que a classe majoritária possui um numero extremamente maior de ocorrências do que as demais classes, testamos as técnicas para balancear as classes do conjunto de dados. Verificamos que não houve um incremento das métricas de avaliação em relação aos modelos treinados com os dados desbalanceados.
 
@@ -26,11 +26,9 @@ As etapas principais do projeto foram as seguintes:
 
 Este projeto foi desenvolvido como parte do trabalho acadêmico na disciplina de Inteligência Artificial. Os autores deste projeto são:
 
-- Paulo André
-  GitHub: [github.com/pauloandreoliv](https://github.com/pauloandreoliv)
+- Paulo André: [github.com/pauloandreoliv](https://github.com/pauloandreoliv)
 
-- Diana Correia
-  GitHub: [github.com/sykes-07](https://github.com/sykes-07)
+- Diana Correia: [github.com/sykes-07](https://github.com/sykes-07)
 
 ## Como Executar o Projeto
 
